@@ -2,7 +2,7 @@ print("Python can print string with a couple of double quote")
 print('And a couple of single quote as well')
 #oh my!
 print("But we can not print Chinese")
-print("Just Baidu/Google it.")
+print("Just Google it.")
 
 #and we can use backlash n "\n" to print multiple strings
 print("Like this. \nJust like this.")
