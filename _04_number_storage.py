@@ -7,9 +7,9 @@ print(area)
 print(high**2) # high * high
 
 #we cannot use + to combine number and a string
-'''
-print("the area of rectangle is" + area) this is wrong
-'''
+
+#print("the area of rectangle is" + area) this is wrong
+
 #we can use %d to print numbers
 #d is for decimal,f is for float
 print("I have %d cats" % 6)     #I have 6 cats
